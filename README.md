@@ -9,6 +9,8 @@ Hi, I'm **Aad** (Aad6552), a student developer who enjoys building things with c
 ## Website
 
 🌐 **aadnanda.com** — My personal website where I share projects, experiments, and things I'm working on.
+Its a wordpress website, get the best themes that i use here
+https://github.com/ssnanda
 
 ## Featured Project
 
@@ -50,11 +52,6 @@ The **Nexon Project** is one of my major ongoing projects. It focuses on creatin
 * Learn advanced software engineering skills
 * Collaborate with developers around the world
 * Continue growing the Nexon Project
-  
-## Aadnanda.com
-
-Get best wp-themes
-https://github.com/ssnanda
 
 ## Featured Links
 
