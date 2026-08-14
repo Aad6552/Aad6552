@@ -63,5 +63,5 @@ I enjoy experimenting with operating systems, customizing Linux environments, an
 ---
 
 *"The best way to predict the future is to build it."*
-
+*"When I think of something that does not exist and i need i build it!"*
 Thanks for visiting my profile!
